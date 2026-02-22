@@ -109,6 +109,15 @@
 
     // 1. Zoom auf ganz Deutschland
     map = L.map('map', { zoomControl: false }).setView([51.3, 10.45], 6);
+
+    // Deutschland-Bounds passend zum sichtbaren Kartenbereich
+    function fitDeutschland() {
+        const bounds = L.latLngBounds([47.2, 5.8], [55.1, 15.1]);
+        // Auf Mobil ist die untere Hälfte von der Sidebar verdeckt → padding unten
+        const padBottom = window.innerWidth <= 768 ? Math.round(window.innerHeight * 0.48) : 0;
+        map.fitBounds(bounds, { paddingBottomRight: [0, padBottom], paddingTopLeft: [0, 10] });
+    }
+    fitDeutschland();
     L.control.zoom({ position: 'topright' }).addTo(map);
 
     // 2. Deutsche Kartenbeschriftung via OpenStreetMap DE-Tile
@@ -363,7 +372,7 @@
     function alleAnzeigen() {
         document.getElementById('plzInput').value = '';
         document.getElementById('typInput').value = 'Alle';
-        map.setView([51.3, 10.45], 6);
+        fitDeutschland();
         drawMarkers(alleKliniken);
         aktualisiereListe(alleKliniken, false);
     }
