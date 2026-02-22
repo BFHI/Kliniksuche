@@ -1,0 +1,2422 @@
+{
+  "meta": {
+    "version": "1.0",
+    "letzte_aktualisierung": "2026-02-22",
+    "quelle": "BFHI Kliniken"
+  },
+  "kliniken": [
+    {
+      "id": "klinik_luisenhospitalaachen_aachen",
+      "firmenname": "Luisenhospital Aachen",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Boxgraben 99",
+      "plz": "52064",
+      "ort": "Aachen",
+      "lat": 50.76809277704616,
+      "lon": 6.076511223238828,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_stfranziskushospital_ahlen",
+      "firmenname": "St. Franziskus-Hospital Ahlen",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Robert-Koch-Straße 55",
+      "plz": "59227",
+      "ort": "Ahlen",
+      "lat": 51.768229619470894,
+      "lon": 7.884231813480989,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_kjfklinikjosefinumgg_augsburg",
+      "firmenname": "KJF Klinik Josefinum gGmbH",
+      "typ": [
+        "Geburtklinik",
+        "Perinatalklinik"
+      ],
+      "strasse": "Joseph-Mayer-Straße 1",
+      "plz": "86154",
+      "ort": "Augsburg",
+      "lat": 48.38546522558484,
+      "lon": 10.875955098028314,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_ubboemmiusklinikgmbh_aurich",
+      "firmenname": "Ubbo-Emmius-Klinik GmbH - Ostfriesisches Krankenhaus",
+      "typ": [
+        "Geburtsklinik",
+        "Kinderklinik"
+      ],
+      "strasse": "Wallinghausener Str. 8-12",
+      "plz": "26603",
+      "ort": "Aurich",
+      "lat": 53.468458973794036,
+      "lon": 7.498578604284339,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_gesundheitszentrumwe_badnauheim",
+      "firmenname": "Gesundheitszentrum Wetterau GmbH - Hochwaldkrankenhaus Bad Nauheim",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Chaumontplatz 1",
+      "plz": "61231",
+      "ort": "Bad Nauheim",
+      "lat": 50.35732457314028,
+      "lon": 8.72972684434522,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_mhlenkreisklinikenkr_badoeynhau",
+      "firmenname": "Mühlenkreiskliniken Krankenhaus Bad Oeynhausen",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Wielandstraße 28",
+      "plz": "32545",
+      "ort": "Bad Oeynhausen",
+      "lat": 52.192550391885426,
+      "lon": 8.796167832271793,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_aksegebergerkliniken_badsegeber",
+      "firmenname": "AK Segeberger Kliniken GmbH",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Krankenhausstr. 2",
+      "plz": "23795",
+      "ort": "Bad Segeberg",
+      "lat": 53.940631738435265,
+      "lon": 10.308211440539651,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_klinikendesmaintaunu_badsoden",
+      "firmenname": "Kliniken des Main-Taunus-Kreises GmbH",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Kronberger Str. 36",
+      "plz": "65812",
+      "ort": "Bad Soden",
+      "lat": 50.15149804896035,
+      "lon": 8.514998347816222,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_zollernalbklinikumba_balingen",
+      "firmenname": "Zollernalb Klinikum Balingen",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Tübinger Str. 30",
+      "plz": "72336",
+      "ort": "Balingen",
+      "lat": 48.278380294353674,
+      "lon": 8.857628796174177,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_vinzenzpallottihospi_bergischgl",
+      "firmenname": "Vinzenz Pallotti Hospital, GFO Kliniken Rhein-Berg",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Vinzenz-Pallotti-Str. 20-24",
+      "plz": "51429",
+      "ort": "Bergisch Gladbach",
+      "lat": 50.96210823550737,
+      "lon": 7.1754148093048205,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_evkrankenhausbergisc_bergischgl",
+      "firmenname": "Ev. Krankenhaus Bergisch Gladbach",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Ferrenbergstraße 24",
+      "plz": "51465",
+      "ort": "Bergisch Gladbach",
+      "lat": 50.99013697133556,
+      "lon": 7.137626971175114,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_vivanteshumboldtklin_berlin",
+      "firmenname": "Vivantes Humboldt-Klinikum",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Am Nordgraben 2",
+      "plz": "13509",
+      "ort": "Berlin",
+      "lat": 52.5899872306602,
+      "lon": 13.307537586791916,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_sanaklinikumlichtenb_berlin",
+      "firmenname": "Sana Klinikum Lichtenberg",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Fanningerstraße 32",
+      "plz": "10365",
+      "ort": "Berlin",
+      "lat": 52.51427165576077,
+      "lon": 13.494343942341828,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_vivantesklinikumimfr_berlin",
+      "firmenname": "Vivantes Klinikum Im Friedrichshain",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Landsberger Allee 49",
+      "plz": "10249",
+      "ort": "Berlin",
+      "lat": 52.52555830479455,
+      "lon": 13.442620069327278,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_mariaheimsuchungcari_berlin",
+      "firmenname": "Maria Heimsuchung Caritas-Klinik Pankow",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Breite Str. 46/47",
+      "plz": "13187",
+      "ort": "Berlin",
+      "lat": 52.57122140515657,
+      "lon": 13.414280602134644,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_gemeinschaftskranken_berlin",
+      "firmenname": "Gemeinschaftskrankenhaus Havelhöhe",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Kladower Damm 221",
+      "plz": "14089",
+      "ort": "Berlin",
+      "lat": 52.46280555602591,
+      "lon": 13.158953682817653,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_drkklinikberlinweste_berlin",
+      "firmenname": "DRK Klinik Berlin Westend",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Spandauer Damm 130",
+      "plz": "14050",
+      "ort": "Berlin",
+      "lat": 52.51948949710788,
+      "lon": 13.276265384670392,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_krankenhauswaldfried_berlin",
+      "firmenname": "Krankenhaus Waldfriede e. V.",
+      "typ": [
+        "Geburtklinik"
+      ],
+      "strasse": "Argentinische Allee 40",
+      "plz": "14163",
+      "ort": "Berlin",
+      "lat": 52.44453060245628,
+      "lon": 13.240399328846998,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_franziskushospitalbi_bielefeld",
+      "firmenname": "Franziskus Hospital Bielefeld",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Kiskerstraße 26",
+      "plz": "33615",
+      "ort": "Bielefeld",
+      "lat": 52.02343911323434,
+      "lon": 8.523445598146232,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_stagneshospitalbocho_bocholt",
+      "firmenname": "St. Agnes-Hospital Bocholt - Klinikum Westmünsterland GmbH",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Barloer Weg 125",
+      "plz": "46397",
+      "ort": "Bocholt",
+      "lat": 51.85578911877796,
+      "lon": 6.627346273543171,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_augustakrankenanstal_bochum",
+      "firmenname": "Augusta-Kranken-Anstalt gGmbH",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Bergstraße 26",
+      "plz": "44791",
+      "ort": "Bochum",
+      "lat": 51.48501666866423,
+      "lon": 7.221538628814962,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_stelisabethhospitalb_bochum",
+      "firmenname": "St. Elisabeth Hospital Bochum",
+      "typ": [
+        "Geburtsklinik",
+        "Perinatalklinik"
+      ],
+      "strasse": "Bleichstraße 15",
+      "plz": "44787",
+      "ort": "Bochum",
+      "lat": 51.48301873323554,
+      "lon": 7.221297934635724,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_gemeinschaftskranken_bonn",
+      "firmenname": "Gemeinschaftskrankenhaus Bonn - Haus St. Elisabeth",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Prinz-Albert-Str. 40",
+      "plz": "53113",
+      "ort": "Bonn",
+      "lat": 50.72788160394687,
+      "lon": 7.103019759476674,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_gfoklinikenbonnstand_bonn",
+      "firmenname": "GFO Kliniken Bonn, Standort St. Marien",
+      "typ": [
+        "Perinatalklinik"
+      ],
+      "strasse": "Robert-Koch-Straße 1",
+      "plz": "53115",
+      "ort": "Bonn",
+      "lat": 50.71708707488171,
+      "lon": 7.093722440431372,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_sanaklinikenleipzige_borna",
+      "firmenname": "Sana Kliniken Leipziger Land GmbH  - Klinikum Borna",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Rudolf-Virchow-Str. 3",
+      "plz": "4552",
+      "ort": "Borna",
+      "lat": 51.13576874226743,
+      "lon": 12.506276126952601,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_frststirumklinikbruc_bruchsal",
+      "firmenname": "Fürst-Stirum-Klinik Bruchsal",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Gutleutstr. 1-14",
+      "plz": "76646",
+      "ort": "Bruchsal",
+      "lat": 49.132691311037405,
+      "lon": 8.603431142231079,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_gfoklinikbrhlmarienh_brhl",
+      "firmenname": "GFO Klinik Brühl Marienhospital",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Mühlenstraße 21-25",
+      "plz": "50321",
+      "ort": "Brühl",
+      "lat": 50.827212129985774,
+      "lon": 6.899491562885101,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_landkreisschwbischha_crailsheim",
+      "firmenname": "Landkreis Schwäbisch Hall Klinikum gGmbH",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Gartenstr. 21",
+      "plz": "74564",
+      "ort": "Crailsheim",
+      "lat": 49.13603733965426,
+      "lon": 10.076773498052027,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_stvincenzkrankenhaus_datteln",
+      "firmenname": "St. Vincenz-Krankenhaus Datteln",
+      "typ": [
+        "Perinatalklinik"
+      ],
+      "strasse": "Rottstr. 11",
+      "plz": "45711",
+      "ort": "Datteln",
+      "lat": 51.65253400153586,
+      "lon": 7.344835926969689,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_kreiskrankenhausdemm_demmin",
+      "firmenname": "Kreiskrankenhaus Demmin",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Wollweberstr. 21",
+      "plz": "17109",
+      "ort": "Demmin",
+      "lat": 53.90243775089481,
+      "lon": 13.041557499674326,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_gfoklinikenniederrhe_dinslaken",
+      "firmenname": "GFO Kliniken Niederrhein St. Vinzenz-Hospital",
+      "typ": [
+        "Perinatalklinik"
+      ],
+      "strasse": "Dr.-Otto-Seidel-Straße 31-33",
+      "plz": "46535",
+      "ort": "Dinslaken",
+      "lat": 51.55942450017724,
+      "lon": 6.72607792283662,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_stjosefshospitaldort_dortmund",
+      "firmenname": "St. Josefs-Hospital Dortmund-Hörde",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Wilhelm-Schmidt-Str. 4",
+      "plz": "44263",
+      "ort": "Dortmund",
+      "lat": 51.485230716488815,
+      "lon": 7.505090055372208,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_diakonissenkrankenha_dresden",
+      "firmenname": "Diakonissenkrankenhaus Dresden",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Holzhofgasse 29",
+      "plz": "1099",
+      "ort": "Dresden",
+      "lat": 51.063305798410234,
+      "lon": 13.761389197560776,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_krankenhausstjosephs_dresden",
+      "firmenname": "Krankenhaus St. Joseph-Stift",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Wintergartenstr. 15/17",
+      "plz": "1307",
+      "ort": "Dresden",
+      "lat": 51.04746921124484,
+      "lon": 13.76081254609267,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_marienhospitaldsseld_dsseldorf",
+      "firmenname": "Marien Hospital Düsseldorf",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Rochusstr. 2",
+      "plz": "40479",
+      "ort": "Düsseldorf",
+      "lat": 51.23583180429401,
+      "lon": 6.784571901390986,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_kaiserswertherdiakon_dsseldorf",
+      "firmenname": "Kaiserswerther Diakonie - Florence-Nightingale-Krankenhaus",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Kreuzberg Str. 79",
+      "plz": "40489",
+      "ort": "Düsseldorf",
+      "lat": 51.30047464105113,
+      "lon": 6.749841926527079,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_rottalinnklinikenkom_eggenfelde",
+      "firmenname": "Rottal-Inn-Kliniken Kommunalunternehmen - Eggenfelden",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Simonsöder Allee 20",
+      "plz": "84307",
+      "ort": "Eggenfelden",
+      "lat": 48.413123254405654,
+      "lon": 12.760480997284873,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_albdonauklinikumehin_ehingen",
+      "firmenname": "Alb-Donau Klinikum Ehingen",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Spitalstr. 29",
+      "plz": "89584",
+      "ort": "Ehingen",
+      "lat": 48.28038071552061,
+      "lon": 9.718698138545697,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_stgeorgklinikumeisen_eisenach",
+      "firmenname": "St. Georg Klinikum Eisenach",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Mühlhäuser Straße 94-95",
+      "plz": "99817",
+      "ort": "Eisenach",
+      "lat": 50.98906769458368,
+      "lon": 10.316138182331944,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_kreiskrankenhausemme_emmendinge",
+      "firmenname": "Kreiskrankenhaus Emmendingen",
+      "typ": [
+        "Geburtklinik"
+      ],
+      "strasse": "Gartenstraße 44",
+      "plz": "79312",
+      "ort": "Emmendingen",
+      "lat": 48.124645479128105,
+      "lon": 7.855069715646211,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_heliosklinikumerlenb_erlenbacha",
+      "firmenname": "Helios Klinikum Erlenbach",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Krankenhausstr. 45",
+      "plz": "63906",
+      "ort": "Erlenbach am Main",
+      "lat": 49.81057051791455,
+      "lon": 9.167770392063158,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_klinikumwerrameinerg_eschwege",
+      "firmenname": "Klinikum Werra-Meißner GmbH",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Elsa-Brändström-Str. 1",
+      "plz": "37269",
+      "ort": "Eschwege",
+      "lat": 51.18332515411382,
+      "lon": 10.05172220879462,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_elisabethkrankenhaus_essen",
+      "firmenname": "Elisabeth-Krankenhaus Essen",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Klara-Kopp-Weg 1",
+      "plz": "45138",
+      "ort": "Essen",
+      "lat": 51.44530449198704,
+      "lon": 7.03285604544829,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_universittsklinikume_essen",
+      "firmenname": "Universitätsklinikum Essen",
+      "typ": [
+        "Neonatologie"
+      ],
+      "strasse": "Hufelandstraße 55",
+      "plz": "45147",
+      "ort": "Essen",
+      "lat": 51.43543554903045,
+      "lon": 6.987743457508349,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_klinikumesslingen_esslingena",
+      "firmenname": "Klinikum Esslingen",
+      "typ": [
+        "Geburtklinik"
+      ],
+      "strasse": "Hirschlandstraße 97",
+      "plz": "73730",
+      "ort": "Esslingen a.N.",
+      "lat": 48.73759838969835,
+      "lon": 9.32654255503035,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_marienhospitaleuskir_euskirchen",
+      "firmenname": "Marien-Hospital Euskirchen GmbH",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Gottfried-Disse-Str. 40",
+      "plz": "53879",
+      "ort": "Euskirchen",
+      "lat": 50.6434332809438,
+      "lon": 6.79255538210434,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_filderklinikggmbh_filderstad",
+      "firmenname": "Filderklinik gGmbH",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Im Haberschlai 7",
+      "plz": "70794",
+      "ort": "Filderstadt",
+      "lat": 48.647485242422874,
+      "lon": 9.204332155171999,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_klinikumforchheim_forchheim",
+      "firmenname": "Klinikum Forchheim",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Krankenhausstraße 10",
+      "plz": "91301",
+      "ort": "Forchheim",
+      "lat": 49.71345936953654,
+      "lon": 11.079421055077104,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_evangelischesdiakoni_freiburg",
+      "firmenname": "Evangelisches Diakoniekrankenhaus Freiburg",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Wirthstr. 11",
+      "plz": "79110",
+      "ort": "Freiburg",
+      "lat": 48.023806653770094,
+      "lon": 7.815639831635065,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_artemedklinikenfreib_freiburg",
+      "firmenname": "Artemed Kliniken Freiburg gGmbH, St. Josefskrankenhaus Freiburg",
+      "typ": [
+        "Geburtklinik",
+        "Perinatalklinik"
+      ],
+      "strasse": "Sautierstraße 1",
+      "plz": "79104",
+      "ort": "Freiburg",
+      "lat": 48.00115529024452,
+      "lon": 7.851661426159333,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_klinikumfreising_freising",
+      "firmenname": "Klinikum Freising",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Alois-Steinecker-Straße 18",
+      "plz": "85354",
+      "ort": "Freising",
+      "lat": 48.4047070087135,
+      "lon": 11.74448013966931,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_krankenhuserlandkrei_freudensta",
+      "firmenname": "Krankenhäuser Landkreis Freudenstadt gGmbH",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Karl-von-Hahn-Straße 120",
+      "plz": "72250",
+      "ort": "Freudenstadt",
+      "lat": 48.47693325608177,
+      "lon": 8.404047983854317,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_klinikumfrth_frth",
+      "firmenname": "Klinikum Fürth",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Jakob-Henle-Straße 1",
+      "plz": "90766",
+      "ort": "Fürth",
+      "lat": 49.48422086260769,
+      "lon": 10.972252139720673,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_klinikumgarmischpart_garmischpa",
+      "firmenname": "Klinikum Garmisch-Partenkirchen",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Auenstraße 6",
+      "plz": "82467",
+      "ort": "Garmisch-Partenkirchen",
+      "lat": 47.48453623033564,
+      "lon": 11.128900195444759,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_krankenhausgeesthach_geesthacht",
+      "firmenname": "Krankenhaus Geesthacht",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Am Runden Berge 3",
+      "plz": "21502",
+      "ort": "Geesthacht",
+      "lat": 53.43273193971841,
+      "lon": 10.384199893625087,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_universittsklinikumg_gieen",
+      "firmenname": "Universitätsklinikum Gießen und Marburg GmbH",
+      "typ": [
+        "Geburtsklinik",
+        "Perinatalklinik"
+      ],
+      "strasse": "Rudolf-Buchheim-Straße 8",
+      "plz": "35392",
+      "ort": "Gießen",
+      "lat": 50.57699229686137,
+      "lon": 8.664669197446333,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_heliosklinikumgifhor_gifhorn",
+      "firmenname": "Helios Klinikum Gifhorn GmbH",
+      "typ": [
+        "Geburtsklinik",
+        "Perinatalklinik"
+      ],
+      "strasse": "Campus 6",
+      "plz": "38518",
+      "ort": "Gifhorn",
+      "lat": 52.49718480851122,
+      "lon": 10.548406410525775,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_helioskreiskrankenha_gotha",
+      "firmenname": "Helios Kreiskrankenhaus Gotha / Ohrdruf GmbH",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Heliosstr. 1",
+      "plz": "99867",
+      "ort": "Gotha",
+      "lat": 50.92844555197567,
+      "lon": 10.677719547207783,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_agaplesionkrankenhau_gttingen",
+      "firmenname": "AGAPLESION Krankenhaus Neu-Bethlehem GmbH",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Humboldtallee 8",
+      "plz": "37073",
+      "ort": "Göttingen",
+      "lat": 51.54110189282025,
+      "lon": 9.942624170511811,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_universittsklinikumg_greifswald",
+      "firmenname": "Universitätsklinikum Greifswald Klinik",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Fleischmannstraße 8",
+      "plz": "17475",
+      "ort": "Greifswald",
+      "lat": 54.087139110320265,
+      "lon": 13.405414116932377,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_kreiskrankenhausgrns_grnstadt",
+      "firmenname": "Kreiskrankenhaus Grünstadt",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Westring 55",
+      "plz": "67269",
+      "ort": "Grünstadt",
+      "lat": 49.56380544683728,
+      "lon": 8.158171122873885,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_sanktelisabethhospit_gtersloh",
+      "firmenname": "Sankt Elisabeth Hospital Gütersloh gGmbH",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Stadtring Kattenstroth 130",
+      "plz": "33332",
+      "ort": "Gütersloh",
+      "lat": 51.88367931161975,
+      "lon": 8.379147411002,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_klinikumgterslohggmb_gtersloh",
+      "firmenname": "Klinikum Gütersloh gGmbH",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Reckenberger Straße 19",
+      "plz": "33332",
+      "ort": "Gütersloh",
+      "lat": 51.89705870728641,
+      "lon": 8.38457715310147,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_evangelischesamalies_hamburg",
+      "firmenname": "Evangelisches Amalie-Sieveking-Krankenhaus gGmbH",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Haselkamp 33",
+      "plz": "22359",
+      "ort": "Hamburg",
+      "lat": 53.64117732420347,
+      "lon": 10.149808012945213,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_asklepioskliniknordh_hamburg",
+      "firmenname": "Asklepios Klinik Nord - Heidberg",
+      "typ": [
+        "Geburtsklinik",
+        "Perinatalklinik"
+      ],
+      "strasse": "Tangstedter Landstr. 400",
+      "plz": "22417",
+      "ort": "Hamburg",
+      "lat": 53.674983757245926,
+      "lon": 10.031226682256452,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_agaplesionbethesdakr_hamburg",
+      "firmenname": "Agaplesion Bethesda Krankenhaus Bergedorf gGmbH",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Glindersweg 80",
+      "plz": "21029",
+      "ort": "Hamburg",
+      "lat": 53.486121565387016,
+      "lon": 10.235758815148035,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_asklepiosklinikwands_hamburg",
+      "firmenname": "Asklepios Klinik Wandsbek",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Alphonsstr. 14",
+      "plz": "22043",
+      "ort": "Hamburg",
+      "lat": 53.56983455352589,
+      "lon": 10.088965940587471,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_asklepiosklinikenham_hamburg",
+      "firmenname": "Asklepios Kliniken Hamburg Klinik Altona",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Paul-Ehrlich-Strasse 1",
+      "plz": "22763",
+      "ort": "Hamburg",
+      "lat": 53.55511124302942,
+      "lon": 9.902260615403074,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_gfoklinikenmettmanns_hilden",
+      "firmenname": "GFO Kliniken Mettmann-Süd, St.-Josefs-Krankenhaus Hilden GmbH",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Walder Straße 34-38",
+      "plz": "40724",
+      "ort": "Hilden",
+      "lat": 51.16786003995236,
+      "lon": 6.943681586245841,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_heliosklinikumhildes_hildesheim",
+      "firmenname": "Helios Klinikum Hildesheim GmbH",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Senator-Braun-Allee 33",
+      "plz": "31135",
+      "ort": "Hildesheim",
+      "lat": 52.1511255,
+      "lon": 9.9767151,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_klinikimmenstadtklin_immenstadt",
+      "firmenname": "Klinik Immenstadt Klinikverbund Allgäu gGmbH",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Im Stillen 1-3",
+      "plz": "87509",
+      "ort": "Immenstadt",
+      "lat": 47.56165,
+      "lon": 10.22679,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_klinikumitzehoe_itzehoe",
+      "firmenname": "Klinikum Itzehoe",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Robert-Koch-Str. 2",
+      "plz": "25524",
+      "ort": "Itzehoe",
+      "lat": 53.9419468,
+      "lon": 9.5039176,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_agaplesiondiakoniekl_kassel",
+      "firmenname": "AGAPLESION DIAKONIE KLINIKEN KASSEL gemeinnützige GmbH",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Herkulesstraße 34",
+      "plz": "34119",
+      "ort": "Kassel",
+      "lat": 51.3142544,
+      "lon": 9.4639899,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_klinikumkassel_kassel",
+      "firmenname": "Klinikum Kassel",
+      "typ": [
+        "Geburtklinik"
+      ],
+      "strasse": "Mönchebergstraße 41-43",
+      "plz": "34125",
+      "ort": "Kassel",
+      "lat": 51.34453449999999,
+      "lon": 9.5180203,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_caritaskrankenhausst_kelheim",
+      "firmenname": "Caritas-Krankenhaus St. Lukas GmbH",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Traubenweg 3",
+      "plz": "93309",
+      "ort": "Kelheim",
+      "lat": 48.9239356,
+      "lon": 11.8857942,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_heiliggeistkrankenha_kln",
+      "firmenname": "Heilig Geist-Krankenhaus GmbH",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Graseggerstr. 105",
+      "plz": "50737",
+      "ort": "Köln",
+      "lat": 50.9917702,
+      "lon": 6.9246804,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_krankenhausderaugust_kln",
+      "firmenname": "Krankenhaus der Augustinerinnen gGmbH",
+      "typ": [
+        "Geburtklinik"
+      ],
+      "strasse": "Jakobstraße 27-31",
+      "plz": "50678",
+      "ort": "Köln",
+      "lat": 50.9249614,
+      "lon": 6.956741,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_heliosfrankenwaldkli_kronach",
+      "firmenname": "Helios Frankenwaldklinik Kronach",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Friesener Str. 41",
+      "plz": "96317",
+      "ort": "Kronach",
+      "lat": 50.2433986,
+      "lon": 11.3321322,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_klinikumkulmbach_kulmbach",
+      "firmenname": "Klinikum Kulmbach",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Albert-Schweitzer-Str. 10",
+      "plz": "95326",
+      "ort": "Kulmbach",
+      "lat": 50.1181925,
+      "lon": 11.4666511,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_stelisabethkrankenha_leipzig",
+      "firmenname": "St. Elisabeth-Krankenhaus Leipzig",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Biedermannstraße 84",
+      "plz": "4277",
+      "ort": "Leipzig",
+      "lat": 51.3033665,
+      "lon": 12.3789512,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_kreisklinikenbblinge_leonberg",
+      "firmenname": "Kreiskliniken Böblingen gGmbH - Krankenhaus Leonberg",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Rutesheimer Str. 50",
+      "plz": "71229",
+      "ort": "Leonberg",
+      "lat": 48.7900094,
+      "lon": 8.9596976,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_klinikumleverkusengg_leverkusen",
+      "firmenname": "Klinikum Leverkusen gGmbH",
+      "typ": [
+        "Geburtsklinik",
+        "Perinatalklinik"
+      ],
+      "strasse": "Am Gesundheitspark 11",
+      "plz": "51375",
+      "ort": "Leverkusen",
+      "lat": 51.0307839,
+      "lon": 7.034376600000001,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_asklepioskliniklichg_lich",
+      "firmenname": "Asklepios Klinik Lich GmbH",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Goethestr. 4",
+      "plz": "35423",
+      "ort": "Lich",
+      "lat": 50.52489440000001,
+      "lon": 8.806194699999999,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_asklepioskliniklinda_lindau",
+      "firmenname": "Asklepios Klinik Lindau",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Friedrichshafener Str. 82",
+      "plz": "88131",
+      "ort": "Lindau",
+      "lat": 47.5634992,
+      "lon": 9.6836626,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_mhlenkreisklinikenar_lbbecke",
+      "firmenname": "Mühlenkreiskliniken (AöR)  Krankenhaus Lübbecke-Rahden",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Virchowstraße 65",
+      "plz": "32312",
+      "ort": "Lübbecke",
+      "lat": 52.29492450000001,
+      "lon": 8.6039043,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_klinikumvestgmbh_marl",
+      "firmenname": "Klinikum Vest GmbH",
+      "typ": [
+        "Geburtklinik"
+      ],
+      "strasse": "Lipper Weg 11",
+      "plz": "45770",
+      "ort": "Marl",
+      "lat": 51.6618076,
+      "lon": 7.1247895,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_krankenhausmechernic_mechernich",
+      "firmenname": "Krankenhaus Mechernich GmbH",
+      "typ": [
+        "Geburtsklinik",
+        "Kinderklinik"
+      ],
+      "strasse": "St. Elisabethstr. 2-6",
+      "plz": "53894",
+      "ort": "Mechernich",
+      "lat": 50.5925975,
+      "lon": 6.6512253,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_heliosklinikummeinin_meiningen",
+      "firmenname": "Helios Klinikum Meiningen",
+      "typ": [
+        "Perinatalklinik"
+      ],
+      "strasse": "Bergstr. 3",
+      "plz": "98617",
+      "ort": "Meiningen",
+      "lat": 50.55789478809138,
+      "lon": 10.397570140475517,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_johannesweslingklini_minden",
+      "firmenname": "Johannes Wesling Klinikum Minden",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Hans-Nolte-Straße 1",
+      "plz": "32429",
+      "ort": "Minden",
+      "lat": 52.1836841,
+      "lon": 8.6903323,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_stjosefkrankenhausmo_moers",
+      "firmenname": "St. Josef Krankenhaus Moers",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Asberger Str. 4",
+      "plz": "47441",
+      "ort": "Moers",
+      "lat": 51.4455353,
+      "lon": 6.6397105,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_krankenhausneuwerkma_mnchenglad",
+      "firmenname": "Krankenhaus Neuwerk \"Maria von den Aposteln\" gGmbH",
+      "typ": [
+        "Geburtklinik"
+      ],
+      "strasse": "Dünner Str. 214-216",
+      "plz": "41066",
+      "ort": "Mönchengladbach",
+      "lat": 51.2245748,
+      "lon": 6.470899999999999,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_stdtischeklinikenmnc_mnchenglad",
+      "firmenname": "Städtische Kliniken Mönchengladbach",
+      "typ": [
+        "Geburtsklinik",
+        "Perinatalklinik"
+      ],
+      "strasse": "Hubertusstraße 100",
+      "plz": "41239",
+      "ort": "Mönchengladbach",
+      "lat": 51.1573808,
+      "lon": 6.418567899999999,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_evangelischeskranken_mlheim",
+      "firmenname": "Evangelisches Krankenhaus Mülheim",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Wertgasse 30",
+      "plz": "45468",
+      "ort": "Mülheim",
+      "lat": 51.4245415,
+      "lon": 6.8827767,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_stdtischesklinikummn_mnchen",
+      "firmenname": "Städtisches Klinikum München - Schwabing",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Kölner Platz 1",
+      "plz": "80804",
+      "ort": "München",
+      "lat": 48.171602,
+      "lon": 11.5782946,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_universittsklinikumm_mnster",
+      "firmenname": "Universitätsklinikum Münster",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Albert-Schweitzer-Campus 1 A1",
+      "plz": "48149",
+      "ort": "Münster",
+      "lat": 51.96128770000001,
+      "lon": 7.59617,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_stauferklinikumschwb_mutlangen",
+      "firmenname": "Stauferklinikum Schwäbisch Gmünd",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Wetzgauerstr.85",
+      "plz": "73557",
+      "ort": "Mutlangen",
+      "lat": 48.8195653,
+      "lon": 9.787448399999999,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_donauklinikneuulm_neuulm",
+      "firmenname": "Donau Klinik Neu-Ulm",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Krankenhausstr. 11",
+      "plz": "89231",
+      "ort": "Neu-Ulm",
+      "lat": 48.3940643,
+      "lon": 9.993534,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_marienhausklinikumne_neunkirche",
+      "firmenname": "Marienhaus klinikum Neunkirchen",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Klinikweg 1-5",
+      "plz": "66539",
+      "ort": "Neunkirchen",
+      "lat": 49.31779,
+      "lon": 7.2274736,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_klinikendeslandkreis_neustadtad",
+      "firmenname": "Kliniken des Landkreises Neustadt a. d. Aisch",
+      "typ": [
+        "Geburtklinik"
+      ],
+      "strasse": "Paracelsusstr. 30",
+      "plz": "91413",
+      "ort": "Neustadt a. d. Aisch",
+      "lat": 49.5818259,
+      "lon": 10.6212451,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_krankenhaushetzelsti_neustadtwe",
+      "firmenname": "Krankenhaus Hetzelstift",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Stiftstr. 10",
+      "plz": "67434",
+      "ort": "Neustadt/Weinstraße",
+      "lat": 49.34619439999999,
+      "lon": 8.1497099,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_heliosalbertschweitz_northeim",
+      "firmenname": "Helios Albert-Schweitzer-Klinik Northeim",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Albert-Schweitzer-Weg 1",
+      "plz": "37154",
+      "ort": "Northeim",
+      "lat": 51.7300672,
+      "lon": 9.978862099999999,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_sttheresienkrankenha_nrnberg",
+      "firmenname": "St. Theresien-Krankenhaus Nürnberg",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Mommsenstr. 24",
+      "plz": "90491",
+      "ort": "Nürnberg",
+      "lat": 49.46980788603191,
+      "lon": 11.11008688461367,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_ameosklinikumoberhau_oberhausen",
+      "firmenname": "Ameos Klinikum Oberhausen -  St. Clemens-Hospital",
+      "typ": [
+        "Geburtsklinik",
+        "Perinatalklinik"
+      ],
+      "strasse": "Wilhelmstr. 34",
+      "plz": "46145",
+      "ort": "Oberhausen",
+      "lat": 51.5176946,
+      "lon": 6.8452898,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_agaplesionevklinikum_obernkirch",
+      "firmenname": "AGAPLESION Ev. Klinikum Schaumburg gGmbH",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Zum Schaumburger Klinikum 1",
+      "plz": "31683",
+      "ort": "Obernkirchen",
+      "lat": 52.2648023,
+      "lon": 9.105141,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_universittsklinikfrg_oldenburg",
+      "firmenname": "Universitätsklinik für Gynäkologie und Geburtshilfe Klinikum Oldenburg AöR",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Rahel-Strauss-Str. 10",
+      "plz": "26133",
+      "ort": "Oldenburg",
+      "lat": 53.1015899,
+      "lon": 8.219192699999999,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_gfoklinikensdwestfal_olpe",
+      "firmenname": "GFO Kliniken Südwestfalen St. Martinus Hospital Olpe",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Hospitalweg 6",
+      "plz": "57462",
+      "ort": "Olpe",
+      "lat": 51.027758684924535,
+      "lon": 7.845764040492721,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_oberhavelklinikengmb_oranienbur",
+      "firmenname": "Oberhavel Kliniken GmbH, Klinik Oranienburg",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Robert-Koch-Str. 2-12",
+      "plz": "16515",
+      "ort": "Oranienburg",
+      "lat": 52.7431681,
+      "lon": 13.2429153,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_asklepiosklinikparch_parchim",
+      "firmenname": "Asklepios Klinik Parchim GmbH",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "John-Brinckman-Str. 8-10",
+      "plz": "19370",
+      "ort": "Parchim",
+      "lat": 53.4300098,
+      "lon": 11.8546878,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_siloahsttrudpertklin_pforzheim",
+      "firmenname": "Siloah St. Trudpert Klinikum",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Wilferdinger Str. 67",
+      "plz": "75179",
+      "ort": "Pforzheim",
+      "lat": 48.8974365,
+      "lon": 8.673668,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_regioklinikengmbhkli_pinneberg",
+      "firmenname": "Regio Kliniken GmbH, Klinikum Pinneberg",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Fahltskamp 74",
+      "plz": "25421",
+      "ort": "Pinneberg",
+      "lat": 53.655071,
+      "lon": 9.812236200000001,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_heliosvogtlandklinik_plauen",
+      "firmenname": "Helios Vogtland-Klinikum Plauen",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Röntgenstr. 2",
+      "plz": "8529",
+      "ort": "Plauen",
+      "lat": 50.4920756,
+      "lon": 12.1536951,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_caritaskrankenhausst_regensburg",
+      "firmenname": "Caritas-Krankenhaus St. Josef",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Landshuter Str. 65",
+      "plz": "93053",
+      "ort": "Regensburg",
+      "lat": 49.007319,
+      "lon": 12.1182785,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_sanaklinikumremschei_remscheid",
+      "firmenname": "Sana-Klinikum Remscheid",
+      "typ": [
+        "Geburtsklinik",
+        "Perinatalklinik"
+      ],
+      "strasse": "Burger Straße 211",
+      "plz": "42859",
+      "ort": "Remscheid",
+      "lat": 51.16149084061044,
+      "lon": 7.188083248561259,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_klinikumobergltzschr_rodewisch",
+      "firmenname": "Klinikum Obergöltzsch Rodewisch",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Stiftstr. 10",
+      "plz": "8228",
+      "ort": "Rodewisch",
+      "lat": 50.5227552,
+      "lon": 12.4103837,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_klinikumsaarbrckengg_saarbrcken",
+      "firmenname": "Klinikum Saarbrücken gGmbH",
+      "typ": [
+        "Geburtsklinik",
+        "Perinatalklinik"
+      ],
+      "strasse": "Winterberg 1",
+      "plz": "66113",
+      "ort": "Saarbrücken",
+      "lat": 49.22140533245196,
+      "lon": 6.9970376496689575,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_caritasklinikumsaarb_saarbrcken",
+      "firmenname": "CaritasKlinikum Saarbrücken",
+      "typ": [
+        "Geburtklinik"
+      ],
+      "strasse": "Rheinstraße 2",
+      "plz": "66113",
+      "ort": "Saarbrücken",
+      "lat": 49.2482778,
+      "lon": 6.9599729,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_heliosklinikschwerin_schwerin",
+      "firmenname": "Helios Klinik Schwerin",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Wismarsche Str. 393-397",
+      "plz": "19049",
+      "ort": "Schwerin",
+      "lat": 53.6518093,
+      "lon": 11.4073055,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_grnklinikschwetzinge_schwetzing",
+      "firmenname": "GRN-Klinik  Schwetzingen",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Bodelschwinghstraße 10",
+      "plz": "68723",
+      "ort": "Schwetzingen",
+      "lat": 49.3783116,
+      "lon": 8.5696447,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_diakonieklinikumgmbh_siegen",
+      "firmenname": "Diakonie Klinikum GmbH - Jung-Stilling-Krankenhaus",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Wichernstraße 40",
+      "plz": "57074",
+      "ort": "Siegen",
+      "lat": 50.85162328145023,
+      "lon": 8.018306640486255,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_marienklinikenstmari_siegen",
+      "firmenname": "Marien Kliniken – St. Marien-Krankenhaus Siegen",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Kampenstraße 51",
+      "plz": "57072",
+      "ort": "Siegen",
+      "lat": 50.879635583879356,
+      "lon": 8.030295282816322,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_srhklinikenlandkreis_sigmaringe",
+      "firmenname": "SRH Kliniken Landkreis Sigmaringen GmbH",
+      "typ": [
+        "Geburtklinik"
+      ],
+      "strasse": "Hohenzollernstraße 40",
+      "plz": "72488",
+      "ort": "Sigmaringen",
+      "lat": 48.0953319,
+      "lon": 9.2245744,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_grnkliniksinsheim_sinsheim",
+      "firmenname": "GRN-Klinik Sinsheim",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Alte Waibstadter Str. 2",
+      "plz": "74889",
+      "ort": "Sinsheim",
+      "lat": 49.2523793,
+      "lon": 8.8905847,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_christlichesklinikum_soest",
+      "firmenname": "Christliches Klinikum Soest gGmbH",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Widumgasse 5",
+      "plz": "59494",
+      "ort": "Soest",
+      "lat": 51.57486309999999,
+      "lon": 8.1120704,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_stdtischesklinikumso_solingen",
+      "firmenname": "Städtisches Klinikum Solingen gGmbH",
+      "typ": [
+        "Geburtklinik",
+        "Perinatalklinik"
+      ],
+      "strasse": "Gotenstr. 1",
+      "plz": "42653",
+      "ort": "Solingen",
+      "lat": 51.1851824,
+      "lon": 7.0701768,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_johanniterkrankenhau_stendal",
+      "firmenname": "Johanniter Krankenhaus Genthin-Stendal gGmbH",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Wendtstraße 31",
+      "plz": "39576",
+      "ort": "Stendal",
+      "lat": 52.61283958417196,
+      "lon": 11.852441140291818,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_marienhospitalstuttg_stuttgart",
+      "firmenname": "Marienhospital Stuttgart",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Böheimstr. 37",
+      "plz": "70199",
+      "ort": "Stuttgart",
+      "lat": 48.7605705,
+      "lon": 9.163547399999999,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_stannakrankenhaus_sulzbachro",
+      "firmenname": "St. Anna Krankenhaus",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Krankenhausstr. 16",
+      "plz": "92237",
+      "ort": "Sulzbach-Rosenberg",
+      "lat": 49.5047343,
+      "lon": 11.7294336,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_gfoklinikentroisdorf_troisdorf",
+      "firmenname": "GFO Kliniken Troisdorf St. Josef Hospital",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Hospitalstraße 45",
+      "plz": "53840",
+      "ort": "Troisdorf",
+      "lat": 50.81790435730842,
+      "lon": 7.159670165623878,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_universittsfrauenkli_tbingen",
+      "firmenname": "Universitäts-Frauenklinik Tübingen",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Calwer Str. 7",
+      "plz": "72076",
+      "ort": "Tübingen",
+      "lat": 48.52638899999999,
+      "lon": 9.0510573,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_klinikumlandkreistut_tuttlingen",
+      "firmenname": "Klinikum Landkreis Tuttlingen gGmbH",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Zeppelinstraße 21",
+      "plz": "78532",
+      "ort": "Tuttlingen",
+      "lat": 47.98472638050256,
+      "lon": 8.831548342232042,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_universittsfrauenkli_ulm",
+      "firmenname": "Universitätsfrauenklinik Ulm",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Prittwitzstr. 43",
+      "plz": "89075",
+      "ort": "Ulm",
+      "lat": 48.4106852,
+      "lon": 9.993319,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_christlichesklinikum_unna",
+      "firmenname": "Christliches Klinikum Unna gGmbH",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Obere Husemannstr. 2",
+      "plz": "59423",
+      "ort": "Unna",
+      "lat": 52.5369612,
+      "lon": 13.4175833,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_allgemeineskrankenha_viersen",
+      "firmenname": "Allgemeines Krankenhaus Viersen GmbH",
+      "typ": [
+        "Geburtsklinik",
+        "Perinatalklinik"
+      ],
+      "strasse": "Hoserkirchweg 63",
+      "plz": "41747",
+      "ort": "Viersen",
+      "lat": 51.2509714,
+      "lon": 6.3821298,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_grnklinikweinheim_weinheim",
+      "firmenname": "GRN-Klinik Weinheim",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Röntgenstr. 1",
+      "plz": "69469",
+      "ort": "Weinheim",
+      "lat": 49.5494946,
+      "lon": 8.644942,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_asklepiospaulinenkli_wiesbaden",
+      "firmenname": "Asklepios Paulinen Klinik Wiesbaden",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Geisenheimer Str. 10",
+      "plz": "65197",
+      "ort": "Wiesbaden",
+      "lat": 50.0717414,
+      "lon": 8.2270038,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_stjosefshospitalwies_wiesbaden",
+      "firmenname": "St. Josefs-Hospital Wiesbaden GmbH",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Beethovenstr. 20",
+      "plz": "65189",
+      "ort": "Wiesbaden",
+      "lat": 50.0764132,
+      "lon": 8.2544328,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_krankenhauswinsengmb_winsen",
+      "firmenname": "Krankenhaus Winsen GmbH",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Friedrich-Lichtenauer-Allee 1",
+      "plz": "21423",
+      "ort": "Winsen",
+      "lat": 53.3508169,
+      "lon": 10.201097,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_marienhospitalwitten_witten",
+      "firmenname": "Marien Hospital Witten",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Marienplatz 2",
+      "plz": "58452",
+      "ort": "Witten",
+      "lat": 51.44627879999999,
+      "lon": 7.3381438,
+      "zertifiziert": false,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_klinikumwolfsburg_wolfsburg",
+      "firmenname": "Klinikum Wolfsburg",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Sauerbruchstraße 7",
+      "plz": "38440",
+      "ort": "Wolfsburg",
+      "lat": 52.413446,
+      "lon": 10.7681019,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_klinikumwormsggmbh_worms",
+      "firmenname": "Klinikum Worms gGmbH",
+      "typ": [
+        "Geburtsklinik"
+      ],
+      "strasse": "Gabriel-von-Seidl-Str. 81",
+      "plz": "67550",
+      "ort": "Worms",
+      "lat": 49.64957039999999,
+      "lon": 8.319254299999999,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    },
+    {
+      "id": "klinik_klinikumwrzburgmitte_wrzburg",
+      "firmenname": "Klinikum Würzburg Mitte gGmbH",
+      "typ": [
+        "Geburtsklinik",
+        "Kinderklinik"
+      ],
+      "strasse": "Salvatorstr. 7",
+      "plz": "97074",
+      "ort": "Würzburg",
+      "lat": 49.7943468,
+      "lon": 9.953425,
+      "zertifiziert": true,
+      "zertifiziert_seit": null,
+      "webseite": null,
+      "telefon": null,
+      "aktiv": true
+    }
+  ]
+}
